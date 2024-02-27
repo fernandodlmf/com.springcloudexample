@@ -7,7 +7,7 @@ spring:
       server:
         git:
           search-paths: config-data
-          uri: 'asdas'
+          uri: https://github.com/fernandodlmf/com.springcloudexample.git
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
 
