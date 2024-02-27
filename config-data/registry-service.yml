@@ -1,6 +1,10 @@
 server:
   port: 8080
 
+spring:
+  jmx:
+    enabled: false
+
 eureka:
   instance:
     hostname: localhost
