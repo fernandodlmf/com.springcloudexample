@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-service/springcloudexample.customer-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-service/springcloudexample.customer-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-product/springcloudexample.service-product.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-product/springcloudexample.service-product.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-service/springcloudexample.shopping-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-service/springcloudexample.shopping-service.main.iml" />
     </modules>
   </component>
 </project>

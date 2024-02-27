@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../../shopping-service/build/generated/sources/annotationProcessor/java/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../shopping-service/build/generated/sources/annotationProcessor/java/main" isTestSource="false" generated="true" />
+    </content>
+  </component>
   <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="91182174-9cf7-4a7d-87da-fafb681f58f5" />
+    <option name="uniqueId" value="f00cc1b0-b380-4308-aa40-3a9e7406d03b" />
   </component>
 </module>
