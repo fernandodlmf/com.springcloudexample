@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="605d9c81-1090-4d67-93f1-52f9d87736fe" name="Changes" comment="">
+    <list default="true" id="6a121ff1-3d9b-48a1-8788-4b14576e468d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/config-service/springcloudexample.config-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/config-service/springcloudexample.config-service.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/config-service/springcloudexample.config-service.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03a2321e1672cdd5266ddb5912b951cb6e76c968" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f15bb78e6fed54277de9bc65fd3f8b931dde30d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2807402aefa5e578ac9d28e2350a584cc54bc2b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38337a48c98d4159bd672e4df862f04a8b8d21d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88d8a8fdc02116acc53a57f47393a54e9d740582" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8bfeafa9d667a5847eea29c1eb75cd5189f1aa07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be98a2a53411c0453a041d246941070d0eada856" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/3/03a2321e1672cdd5266ddb5912b951cb6e76c968" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0f15bb78e6fed54277de9bc65fd3f8b931dde30d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/8/2807402aefa5e578ac9d28e2350a584cc54bc2b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/8/38337a48c98d4159bd672e4df862f04a8b8d21d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/8/88d8a8fdc02116acc53a57f47393a54e9d740582" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/b/8bfeafa9d667a5847eea29c1eb75cd5189f1aa07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/e/be98a2a53411c0453a041d246941070d0eada856" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-data/registry-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
@@ -14,22 +37,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/df04b1c8-3a93-41a4-836b-33d545ce8131.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/df04b1c8-3a93-41a4-836b-33d545ce8131/storage_v2/_src_/schema/dbcustomer.XC4EUw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/df04b1c8-3a93-41a4-836b-33d545ce8131/storage_v2/_src_/schema/dbinvoice.78zEIw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/df04b1c8-3a93-41a4-836b-33d545ce8131/storage_v2/_src_/schema/dbproduct.sVZ8nA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/df04b1c8-3a93-41a4-836b-33d545ce8131/storage_v2/_src_/schema/dbshopping.5p9aGg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/df04b1c8-3a93-41a4-836b-33d545ce8131/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/df04b1c8-3a93-41a4-836b-33d545ce8131/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/df04b1c8-3a93-41a4-836b-33d545ce8131/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/df04b1c8-3a93-41a4-836b-33d545ce8131/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/config-service.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/config-service.test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/customer-service/springcloudexample.customer-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/customer-service/springcloudexample.customer-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/customer-service/springcloudexample.customer-service.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/customer-service/springcloudexample.customer-service.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/customer-service/springcloudexample.customer-service.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/customer-service/springcloudexample.customer-service.test.iml" afterDir="false" />
@@ -42,40 +51,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules/springcloudexample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/springcloudexample.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/springcloudexample.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/springcloudexample.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/springcloudexample.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/springcloudexample.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f02d98a3f70fc2f5d5a3cb3aae9020e7f6ba5a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f15bb78e6fed54277de9bc65fd3f8b931dde30d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2807402aefa5e578ac9d28e2350a584cc54bc2b1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38337a48c98d4159bd672e4df862f04a8b8d21d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/4767b9b3f3d2edb08974a2e2cb0a1c33563c94b2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63faf686794d8f30b04a3baa8a68d06055b05029" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/7987693d1be2f38cf082a8ab3c5bf0c4774f9663" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d613d325272133cbcf44742f37c9ca9fe9999e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/956fcd50d363c9324f932ac2b986843f0734112a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7db969044a42c5337c79559506ecb9ee9739a95" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bccb28bf073ae7fa85bc8fd3935606c4ba9c81b5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/5/05efc8b1657769a27696d478ded1e95f38737233" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0f02d98a3f70fc2f5d5a3cb3aae9020e7f6ba5a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0f15bb78e6fed54277de9bc65fd3f8b931dde30d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/8/2807402aefa5e578ac9d28e2350a584cc54bc2b1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/8/38337a48c98d4159bd672e4df862f04a8b8d21d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/7/4767b9b3f3d2edb08974a2e2cb0a1c33563c94b2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/63faf686794d8f30b04a3baa8a68d06055b05029" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/9/7987693d1be2f38cf082a8ab3c5bf0c4774f9663" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/d/7d613d325272133cbcf44742f37c9ca9fe9999e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/5/956fcd50d363c9324f932ac2b986843f0734112a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/7/b7db969044a42c5337c79559506ecb9ee9739a95" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/c/bccb28bf073ae7fa85bc8fd3935606c4ba9c81b5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/customer-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/customer-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/service-product.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/service-product.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/shopping-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/shopping-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/java/com/springcloudexample/configservice/ConfigServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/java/com/springcloudexample/configservice/ConfigServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-product/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +68,9 @@
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/registry-service">
       <ProjectState />
     </projectState>
   </component>
@@ -100,7 +87,7 @@
   "customColor": "",
   "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2cxZvhrxZFaqnPVwBcZ7yQeZYfe" />
+  <component name="ProjectId" id="2cxeTkbQ5xq5fHJJbswsqfOEmel" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -114,9 +101,15 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.ConfigServiceApplication.executor": "Debug",
+    "Spring Boot.CustomerApplication.executor": "Debug",
+    "Spring Boot.ServiceProductApplication.executor": "Debug",
+    "Spring Boot.ShoppingServiceApplication.executor": "Debug",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nando/OneDrive/Documentos/WORKSPACE/WORKSPACE_JAVA/springcloudexample/config-data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -126,6 +119,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nando\OneDrive\Documentos\WORKSPACE\WORKSPACE_JAVA\springcloudexample\config-data" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -146,6 +144,20 @@
     <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springcloudexample.customer-service.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudexample.customer.CustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springcloudexample.registry-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudexample.registryservice.RegistryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="registry-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudexample.registryservice.RegistryServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,12 +187,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="605d9c81-1090-4d67-93f1-52f9d87736fe" name="Changes" comment="" />
-      <created>1709055435394</created>
+      <changelist id="6a121ff1-3d9b-48a1-8788-4b14576e468d" name="Changes" comment="" />
+      <created>1709057678643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709055435394</updated>
-      <workItem from="1709055438435" duration="871000" />
+      <updated>1709057678643</updated>
+      <workItem from="1709057682499" duration="4158000" />
     </task>
     <servers />
   </component>

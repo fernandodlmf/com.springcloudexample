@@ -9,6 +9,7 @@
         </processorPath>
         <module name="springcloudexample.config-service.main" />
         <module name="springcloudexample.shopping-service.main" />
+        <module name="springcloudexample.registry-service.main" />
         <module name="springcloudexample.main" />
         <module name="springcloudexample.customer-service.main" />
         <module name="springcloudexample.service-product.main" />

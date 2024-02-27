@@ -1,0 +1,7 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+Y
+java:S1854U">Remove this useless assignment to local variable "jsonString".(“úÊéşÿÿÿÿ
+E
+java:S1481R"/Remove this unused "jsonString" local variable.(¨»À

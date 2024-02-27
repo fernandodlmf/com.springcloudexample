@@ -1,32 +1,66 @@
-server:
-  port: 8082
-
 spring:
   application:
     name: service-product
-  jpa:
-    show-sql: false
-    hibernate:
-      ddl-auto: update
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.MySQL8Dialect
-  jmx:
-    enabled: false
-  datasource:
-    url: jdbc:mysql://localhost:3306/dbproduct?allowPublicRetrieval&sslMode=DISABLED
-    username: root
-    password: cloudexample
+  config:
+    import: configserver:http://localhost:8081
+  cloud:
+    config:
+      uri: http://localhost:8081
+      username: root
+      password: s3cr3t
 
 
+#server:
+#  port: 8081
+#
+#spring:
+#  application:
+#    name: service-customer
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL8Dialect
+#  jmx:
+#    enabled: false
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/dbcustomer?allowPublicRetrieval&sslMode=DISABLED
+#    username: root
+#    password: cloudexample
+#
 
-#eureka:
-#  instance:
-#    prefer-ip-address: true
-#  client:
-#    service-url:
-#      defaultZone: http://localhost:8081/eureka/
-#    fetch-registry: true
-#    register-with-eureka: true
 
-
+#server:
+#  port: 8082
+#
+#spring:
+#  application:
+#    name: service-product
+#  jpa:
+#    show-sql: false
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL8Dialect
+#  jmx:
+#    enabled: false
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/dbproduct?allowPublicRetrieval&sslMode=DISABLED
+#    username: root
+#    password: cloudexample
+#
+#
+#
+##eureka:
+##  instance:
+##    prefer-ip-address: true
+##  client:
+##    service-url:
+##      defaultZone: http://localhost:8081/eureka/
+##    fetch-registry: true
+##    register-with-eureka: true
+#
+#
