@@ -1,0 +1,6 @@
+rootProject.name = 'springcloudexample'
+
+include 'customer-service'
+include 'service-product'
+include 'shopping-service'
+include 'config-service'

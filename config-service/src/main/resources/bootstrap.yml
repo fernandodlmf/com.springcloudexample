@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          search-paths: config-data
+          uri: 'asdas'
+          username: ${GIT_USER}
+          password: ${GIT_PASSWORD}
+
+  security:
+    user:
+      password: s3cr3t
+      name: root

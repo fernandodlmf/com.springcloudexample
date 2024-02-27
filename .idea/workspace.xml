@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5695a072-5563-4328-988e-3b01db719789" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-data/customer-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-data/service-product.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-data/shopping-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/src/main/java/com/springcloudexample/configservice/ConfigServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/src/test/java/com/springcloudexample/configservice/ConfigServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/springcloudexample/customer/CustomerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/springcloudexample/customer/Entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/springcloudexample/customer/Entity/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/springcloudexample/customer/Service/IServiceCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/springcloudexample/customer/Service/ServiceCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/springcloudexample/customer/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/test/java/com/springcloudexample/customer/CustomerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/stack.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/lib/junit-4.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/main/java/com/springcloudexample/serviceproduct/Service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/main/java/com/springcloudexample/serviceproduct/Service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/main/java/com/springcloudexample/serviceproduct/ServiceProductApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/main/java/com/springcloudexample/serviceproduct/controller/ErrorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/main/java/com/springcloudexample/serviceproduct/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/main/java/com/springcloudexample/serviceproduct/entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/main/java/com/springcloudexample/serviceproduct/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/main/java/com/springcloudexample/serviceproduct/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/test/java/com/springcloudexample/serviceproduct/ProductRepositoryMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/test/java/com/springcloudexample/serviceproduct/ProductServiceMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/src/test/java/com/springcloudexample/serviceproduct/ServiceProductApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-product/stack.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/springcloudexample/shoppingservice/ShoppingServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/springcloudexample/shoppingservice/controller/InvoiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/springcloudexample/shoppingservice/entity/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/springcloudexample/shoppingservice/entity/InvoiceItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/springcloudexample/shoppingservice/repository/IInvoiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/springcloudexample/shoppingservice/service/IInvoiceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/springcloudexample/shoppingservice/service/InvoiceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/test/java/com/springcloudexample/shoppingservice/ShoppingServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/config-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cvNPHKH8jPPpfuUMTVcV1AlslB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build springcloudexample.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ShoppingServiceApplication.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nando/OneDrive/Documentos/WORKSPACE/WORKSPACE_JAVA/springcloudexample",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nando\OneDrive\Documentos\WORKSPACE\WORKSPACE_JAVA\springcloudexample\config-data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShoppingServiceApplication">
+    <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="config-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudexample.configservice.ConfigServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springcloudexample.customer-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudexample.customer.CustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springcloudexample.service-product.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudexample.serviceproduct.ServiceProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springcloudexample.shopping-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudexample.shoppingservice.ShoppingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5695a072-5563-4328-988e-3b01db719789" name="Changes" comment="" />
+      <created>1708988076805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708988076805</updated>
+      <workItem from="1708988082001" duration="4461000" />
+      <workItem from="1709035285420" duration="1963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
